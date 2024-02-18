@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: #CAD2C5;
+}
+.heading{
+    display: flex;
+     background-color: #2F3D46;
+    padding: 10px;
+   
+}
+h2{
+    padding-left: 45%;
+    color: white;
+    text-align: center;
+    
+}
+.bi-github{
+    
+    color:white
+}
+.left{
+  
+    width: 350px;
+    height: 500px;
+    border: 2px solid #353535 ;
+    border-radius: 30px;
+    background-color: #353535;
+    margin-left: 60px;
+    margin-top: 40px;
+  
+}
+.box{
+display: flex;
+justify-content: start;
+
+
+}
+.right{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+/* align-content: space-around; */
+
+
+}
+
+.search{
+
+ width: 600px;
+ padding: 20px;
+ border: 2px solid  #353535;
+ border-radius: 10px;
+ background-color: #353535;
+ margin: 30px;
+ 
+
+}
+.boxes{
+display: flex;
+justify-content: space-between;
+
+}
+.b1{
+
+
+width: 200px;
+height: 150px;
+border: 2px solid  #353535;
+border-radius: 10px;
+background-color: #353535;
+margin: 30px;
+}
+.react{
+
+width: 800px;
+height: 150px;
+border: 2px solid  #353535;
+border-radius: 10px;
+background-color: #353535;
+margin: 30px;
+}
